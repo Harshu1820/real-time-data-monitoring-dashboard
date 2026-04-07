@@ -47,7 +47,7 @@ This project led to a research publication in the domain of application monitori
 ![Charts](charts.png)
 
 ### Email Alert System
-![Email](email.png)
+![Email](email.jpg)
 
 ### System Management (Adding & Tracking Systems)
 ![Systems](systems.png)
