@@ -32,25 +32,25 @@ This project led to a research publication in the domain of application monitori
 ## 📷 Screenshots
 
 ### Login Interface
-![Login](login.png)
+![Login](login.jpg)
 
 ### System Architecture
-![Architecture](architecture.png)
+![Architecture](architecture.jpg)
 
 ### Monitoring Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpg)
 
 ### System Status (Online/Offline)
-![Status](status.png)
+![Status](status.jpg)
 
 ### Data Visualization
-![Charts](charts.png)
+![Charts](charts.jpg)
 
 ### Email Alert System
 ![Email](email.jpg)
 
 ### System Management (Adding & Tracking Systems)
-![Systems](systems.png)
+![Systems](systems.jpg)
 
 
 ## 🧠 Key Learnings
