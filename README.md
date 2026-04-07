@@ -60,5 +60,15 @@ This project led to a research publication in the domain of application monitori
 - Practical implementation of data analytics concepts
 - Building scalable and user-friendly applications
 
+
+## ⚙️ How to Run
+
+1. Install dependencies:
+pip install -r requirements.txt
+
+2. Run the app:
+streamlit run app.py
+
+
 ## 📬 Contact
 For more details, feel free to connect with me.
