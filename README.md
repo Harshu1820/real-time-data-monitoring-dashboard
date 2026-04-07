@@ -49,6 +49,9 @@ This project led to a research publication in the domain of application monitori
 ### Email Alert System
 ![Email](email.png)
 
+### System Management (Adding & Tracking Systems)
+![Systems](systems.png)
+
 
 ## 🧠 Key Learnings
 - Real-time data processing and monitoring
