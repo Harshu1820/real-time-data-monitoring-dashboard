@@ -1,4 +1,4 @@
-# DizBoard – Real-Time Data Monitoring 
+# DizBoard : Server and Database Manager
 
 ## 🚀 Overview
 This project focuses on the design and development of a real-time data monitoring and visualization system using Streamlit. It enables efficient tracking, analysis, and visualization of system data in real time.
